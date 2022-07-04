@@ -1,8 +1,8 @@
 # options
-Programy stworzone w ramach kursu `Modelowanie rynków finansowych`. 
-Dotyczą one wyceny opcji:
-- europejskich (drzewko addytywne oraz multiplikatywne),
-- amerykańskich (drzewko addytywne oraz multiplikatywne),
-- lookback (multiplikatywne)
-na drzewkach dwumianowych, zaś w pliku `zad9.m` pokazywana jest zbieżność do ceny Blacka-Scholesa.
-Plik `greki.m` służy do wyliczania greckich wskaźników. 
+
+Programms prepared for 'Financial markets modelling'. 
+They are related with options pricing on trees, including:
+- european options
+- american options
+- lookback options.
+File `greki.m` is being used to calculate greeks, while `zad9.m` shows convergence to Black-Scholes price.
